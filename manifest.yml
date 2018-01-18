@@ -3,3 +3,4 @@ applications:
 - name: nodejs_newrelic
   memory: 128M
   instances: 1
+  host: nodejs-newrelic
