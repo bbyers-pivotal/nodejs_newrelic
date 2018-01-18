@@ -1,0 +1,5 @@
+---
+applications:
+- name: nodejs_newrelic
+  memory: 128M
+  instances: 1
